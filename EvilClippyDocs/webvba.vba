@@ -1,0 +1,6 @@
+Attribute VB_Base = "{00020906-0000-0000-C000-000000000046}"
+
+Sub AutoOpen()
+'''NOT PWNED'''
+MsgBox ("TESTING SOME STUFF")
+End Sub
